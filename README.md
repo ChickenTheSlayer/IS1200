@@ -25,3 +25,4 @@ Implement low-level programs with input-output, timers, and interrupts.
 Explain the principles of multiprocessor computers and how they can be programmed.
 Explain and describe technical solutions, both orally and in writing.
 
+Run through the use of a PIC32 machine using simple C functions such as make.
